@@ -1,3 +1,5 @@
+# 『ゼロから作る Deep Learning』の正誤表
+
 下記の誤りがありました。お詫びして訂正いたします。
 
 本ページに掲載されていない誤植など間違いを見つけた方は、[japan＠oreilly.co.jp](<mailto:japan＠oreilly.co.jp>)までお知らせください。
