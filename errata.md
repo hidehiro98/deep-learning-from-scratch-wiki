@@ -14,6 +14,7 @@
 |3章 P.78 L.25  |上の結果から、対応する配列の次元数が一致していることを確認しましょう |上の結果から、多次元配列の対応する次元の要素数が一致していることを確認しましょう |
 |3章 P.78 L.27  |次元配列の対応する次元数が一致していますね。 |次元配列の対応する次元の要素数が一致していますね。 |
 |3章 P.79 L.2   |10次元の配列が出力されるという流れになっています。 |1次元の配列（要素数10）が出力されるという流れになっています。 |
+|4章 P.106 l.8  |どこに最小値を取る場所があるのか検討がつきません。 |どこに最小値を取る場所があるのか見当がつきません。 |
 |4章 P.114 L.29 |`y = predict(x)` |`y = self.predict(x)` |
 |4章 P.118 L.4  |`(x_train, t_train), (x_test, t_test) = load_mnist(normalize=True)` |`(x_train, t_train), (x_test, t_test) = \`<br>　　`load_mnist(normalize=True, one_hot_label=True)` |
 |4章 P.120 L.11 |`(x_train, t_train), (x_test, t_test) = load_mnist(normalize=True)` |`(x_train, t_train), (x_test, t_test) = \`<br>　　`load_mnist(normalize=True, one_hot_label=True)` |
