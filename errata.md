@@ -4,6 +4,12 @@
 
 本ページに掲載されていない誤植など間違いを見つけた方は、[japan＠oreilly.co.jp](<mailto:japan＠oreilly.co.jp>)までお知らせください。
 
+### 第7刷まで
+
+|頁             |誤  |正  |
+|:--            |:-- |:-- |
+|5章 P.161 L.21 |`(x_train, t_train), (x_test, t_test) = load_mnist(normalize=True)` |`(x_train, t_train), (x_test, t_test) = \`<br>　　`load_mnist(normalize=True, one_hot_label=True)` |
+
 ### 第5刷まで
 
 |頁             |誤  |正  |
