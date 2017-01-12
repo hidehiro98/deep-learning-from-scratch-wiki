@@ -8,6 +8,8 @@
 
 |頁             |誤  |正  |
 |:--            |:-- |:-- |
+|1章 P.17 図1-3 |<img src="https://raw.githubusercontent.com/oreilly-japan/deep-learning-from-scratch/images/fig01_3-old.png" alt="誤">  |<img src="https://raw.githubusercontent.com/oreilly-japan/deep-learning-from-scratch/images/fig01_3-new.png" alt="正"> |
+|2章 P34 l.13   |第2層目の入力はyを出力する。 |第2層目のニューロンはyを出力する。 |
 |5章 P.161 L.21 |`(x_train, t_train), (x_test, t_test) = load_mnist(normalize=True)` |`(x_train, t_train), (x_test, t_test) = \`<br>　　`load_mnist(normalize=True, one_hot_label=True)` |
 
 ### 第5刷まで
