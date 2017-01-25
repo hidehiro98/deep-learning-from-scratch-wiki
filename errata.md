@@ -9,8 +9,12 @@
 |頁             |誤  |正  |
 |:--            |:-- |:-- |
 |1章 P.17 図1-3 |<img src="https://raw.githubusercontent.com/oreilly-japan/deep-learning-from-scratch/images/fig01_3-old.png" alt="誤">  |<img src="https://raw.githubusercontent.com/oreilly-japan/deep-learning-from-scratch/images/fig01_3-new.png" alt="正"> |
-|2章 P34 l.13   |第2層目の入力はyを出力する。 |第2層目のニューロンはyを出力する。 |
+|2章 P34 L.13   |第2層目の入力はyを出力する。 |第2層目のニューロンはyを出力する。 |
+|4章 P.111 L.9  |`[[ 0.47355232, 0.9977393 , 0.84668094],`   |`[[ 0.47355232 0.9977393 0.84668094]` |
+|4章 P.111 L.10 |　`[ 0.85557411, 0.03563661, 0.69422093]])` |　`[ 0.85557411 0.03563661 0.69422093]]` |
+|4章 P.111 L.15 |`[ 1.13282549 0.66052348 1.20919114]`       |`[ 1.05414809 0.63071653 1.1328074]` |
 |5章 P.161 L.21 |`(x_train, t_train), (x_test, t_test) = load_mnist(normalize=True)` |`(x_train, t_train), (x_test, t_test) = \`<br>　　`load_mnist(normalize=True, one_hot_label=True)` |
+|6章 P.200 L.8  |「10 の階乗」 |「10 のべき乗」 |
 
 ### 第5刷まで
 
@@ -22,7 +26,7 @@
 |3章 P.78 L.25  |上の結果から、対応する配列の次元数が一致していることを確認しましょう |上の結果から、多次元配列の対応する次元の要素数が一致していることを確認しましょう |
 |3章 P.78 L.27  |次元配列の対応する次元数が一致していますね。 |次元配列の対応する次元の要素数が一致していますね。 |
 |3章 P.79 L.2   |10次元の配列が出力されるという流れになっています。 |1次元の配列（要素数10）が出力されるという流れになっています。 |
-|4章 P.106 l.8  |どこに最小値を取る場所があるのか検討がつきません。 |どこに最小値を取る場所があるのか見当がつきません。 |
+|4章 P.106 L.8  |どこに最小値を取る場所があるのか検討がつきません。 |どこに最小値を取る場所があるのか見当がつきません。 |
 |4章 P.114 L.29 |`y = predict(x)` |`y = self.predict(x)` |
 |4章 P.118 L.4  |`(x_train, t_train), (x_test, t_test) = load_mnist(normalize=True)` |`(x_train, t_train), (x_test, t_test) = \`<br>　　`load_mnist(normalize=True, one_hot_label=True)` |
 |4章 P.120 L.11 |`(x_train, t_train), (x_test, t_test) = load_mnist(normalize=True)` |`(x_train, t_train), (x_test, t_test) = \`<br>　　`load_mnist(normalize=True, one_hot_label=True)` |
