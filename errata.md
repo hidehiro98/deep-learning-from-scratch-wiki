@@ -6,15 +6,19 @@
 
 ### 第7刷まで
 
-|頁             |誤  |正  |
-|:--            |:-- |:-- |
-|1章 P.17 図1-3 |<img src="https://raw.githubusercontent.com/oreilly-japan/deep-learning-from-scratch/images/fig01_3-old.png" alt="誤">  |<img src="https://raw.githubusercontent.com/oreilly-japan/deep-learning-from-scratch/images/fig01_3-new.png" alt="正"> |
-|2章 P34 L.13   |第2層目の入力はyを出力する。 |第2層目のニューロンはyを出力する。 |
-|4章 P.111 L.9  |`[[ 0.47355232, 0.9977393 , 0.84668094],`   |`[[ 0.47355232 0.9977393 0.84668094]` |
-|4章 P.111 L.10 |　`[ 0.85557411, 0.03563661, 0.69422093]])` |　`[ 0.85557411 0.03563661 0.69422093]]` |
-|4章 P.111 L.15 |`[ 1.13282549 0.66052348 1.20919114]`       |`[ 1.05414809 0.63071653 1.1328074]` |
-|5章 P.161 L.21 |`(x_train, t_train), (x_test, t_test) = load_mnist(normalize=True)` |`(x_train, t_train), (x_test, t_test) = \`<br>　　`load_mnist(normalize=True, one_hot_label=True)` |
-|6章 P.200 L.8  |「10 の階乗」 |「10 のべき乗」 |
+|頁              |誤  |正  |
+|:--             |:-- |:-- |
+|1章 P.17 図1-3  |<img src="https://raw.githubusercontent.com/oreilly-japan/deep-learning-from-scratch/images/fig01_3-old.png" alt="誤">  |<img src="https://raw.githubusercontent.com/oreilly-japan/deep-learning-from-scratch/images/fig01_3-new.png" alt="正"> |
+|2章 P34 L.13    |第2層目の入力はyを出力する。 |第2層目のニューロンはyを出力する。 |
+|3章 P.47 L.8    |`x = np.array(-5.0, 5.0, 0.1)` |`x = np.array([-5.0, 5.0, 0.1] )` |
+|4章 P.91 最終行 |k次元目 |k番目 |
+|4章 P.93 L.2    |784次元 |784列 |
+|4章 P.111 L.9   |`[[ 0.47355232, 0.9977393 , 0.84668094],`   |`[[ 0.47355232 0.9977393 0.84668094]` |
+|4章 P.111 L.10  |　`[ 0.85557411, 0.03563661, 0.69422093]])` |　`[ 0.85557411 0.03563661 0.69422093]]` |
+|4章 P.111 L.15  |`[ 1.13282549 0.66052348 1.20919114]`       |`[ 1.05414809 0.63071653 1.1328074]` |
+|5章 P.161 L.21  |`(x_train, t_train), (x_test, t_test) = load_mnist(normalize=True)` |`(x_train, t_train), (x_test, t_test) = \`<br>　　`load_mnist(normalize=True, one_hot_label=True)` |
+|6章 P.200 L.8   |「10 の階乗」 |「10 のべき乗」 |
+|7章 P.232 L.6,7 |`self.layers['Affine2'] = Affine(self.params['W3'],`<br>　　　　　　　　　　　　　　　`self.params['b3'])` |`self.layers['Affine2'] = Affine(self.params['W3'],`<br>　　　　　　　　　　　　　　　`self.params['b3'])`<br><br>`self.last_layer = SoftmaxWithLoss()` |
 
 ### 第5刷まで
 
