@@ -10,7 +10,6 @@
 |:--             |:-- |:-- |
 |1章 P.17 図1-3  |<img src="https://raw.githubusercontent.com/oreilly-japan/deep-learning-from-scratch/images/fig01_3-old.png" alt="誤">  |<img src="https://raw.githubusercontent.com/oreilly-japan/deep-learning-from-scratch/images/fig01_3-new.png" alt="正"> |
 |2章 P34 L.13    |第2層目の入力はyを出力する。 |第2層目のニューロンはyを出力する。 |
-|3章 P.47 L.8    |`x = np.array(-5.0, 5.0, 0.1)` |`x = np.array([-5.0, 5.0, 0.1] )` |
 |4章 P.91 最終行 |k次元目 |k番目 |
 |4章 P.93 L.2    |784次元 |784列 |
 |4章 P.111 L.9   |`[[ 0.47355232, 0.9977393 , 0.84668094],`   |`[[ 0.47355232 0.9977393 0.84668094]` |
