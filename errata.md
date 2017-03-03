@@ -4,6 +4,13 @@
 
 本ページに掲載されていない誤植など間違いを見つけた方は、[japan＠oreilly.co.jp](<mailto:japan＠oreilly.co.jp>)までお知らせください。
 
+### 第8刷まで
+|頁               |誤  |正  |
+|:--              |:-- |:-- |
+|3章 P.56 l.19    |行列`A`の1次元目と行列`C`の0次元目の次元数が一致していない、 |行列`A`の1次元目と行列`C`の0次元目の次元の要素数が一致していない、 |
+|4章 P.93 l.3     |また、教師データは10次元のデータです。 |また、教師データは10列のデータです。 |
+|6章 P.189 図6-17 |<img src="https://raw.githubusercontent.com/oreilly-japan/deep-learning-from-scratch/images/fig06_17-old.png" alt="誤"> |<img src="https://raw.githubusercontent.com/oreilly-japan/deep-learning-from-scratch/images/fig06_17-new.png" alt="正"> |
+
 ### 第7刷まで
 
 |頁              |誤  |正  |
