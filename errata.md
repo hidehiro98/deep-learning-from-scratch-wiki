@@ -10,6 +10,8 @@
 |3章 P.56 l.19    |行列`A`の1次元目と行列`C`の0次元目の次元数が一致していない、 |行列`A`の1次元目と行列`C`の0次元目の次元の要素数が一致していない、 |
 |4章 P.93 l.3     |また、教師データは10次元のデータです。 |また、教師データは10列のデータです。 |
 |6章 P.189 図6-17 |<img src="https://raw.githubusercontent.com/oreilly-japan/deep-learning-from-scratch/images/fig06_17-old.png" alt="誤"> |<img src="https://raw.githubusercontent.com/oreilly-japan/deep-learning-from-scratch/images/fig06_17-new.png" alt="正"> |
+|7章 P.237 l.6    |LeNetが今から20年以上も前に提案された   |LeNetが今から20年近くも前に提案された   |
+|7章 P.237 l.9    |LeNetが世に出てから20年以上が経過して、 |LeNetが世に出てから20年近くが経過して、 |
 
 ### 第7刷まで
 
